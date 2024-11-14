@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        margin: 0;
+        @apply bg-Pcbg ;
+        @apply text-PCbase ;
+    }
+}
+
+@keyframes append-animate {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform:  translateX(0%);
+        opacity: 1;
+
+    }
+}
+
+.new-play{
+    animation: append-animate 0.5s ease-in-out ;
+}
