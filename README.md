@@ -8,7 +8,7 @@
 
 ในการเริ่มต้นใช้งานโปรเจคนี้ ให้ทำการโคลนโปรเจคจาก GitHub:
 
-<div style="border: 2px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
+<div style="border: 4px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
   <strong>git clone https://github.com/Corazon-Heart/KiartikunPortfoli-H.git</strong>
 </div>
 
@@ -16,7 +16,7 @@
 
 หลังจากโคลนโปรเจคมาแล้ว ให้ไปที่โฟลเดอร์โปรเจคและใช้คำสั่งต่อไปนี้เพื่อให้ได้ไลบรารีที่ติดตั้งผ่าน Node.js:
 
-<div style="border: 2px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
+<div style="border: 4px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
   <strong>npm install</strong>
 </div>
 
@@ -24,7 +24,7 @@
 
 เมื่อคุณติดตั้ง dependencies แล้ว คุณสามารถใช้คำสั่งนี้เพื่อดูหน้าตาของเว็บไซต์ในโหมดพัฒนา:
 
-<div style="border: 2px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
+<div style="border: 4px solid #4CAF50; padding: 10px; background-color: #e8f5e9; border-radius: 10px;">
   <strong>npm run dev</strong>
 </div>
 
