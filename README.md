@@ -1,6 +1,6 @@
 # Kiartikun Portfolio-H
 
-### ขออภัยนะครับผมไม่สามารถนำสิ่งนี้ไป Deploy ออกเป็นเว็ปได้ครับ ผมจะพยายาม เรียนรู้เพิ่มขึ้นเรื่อยๆนะครับ
+### Link Website kiartikun-miphuang-portfolio.netlify.app
 
 ยินดีต้อนรับสู่โปรเจค Kiartikun Portfolio-H! นี่คือโปรเจคที่ใช้แสดงผลงานและข้อมูลต่างๆ ของคุณผ่านเว็บ
 
